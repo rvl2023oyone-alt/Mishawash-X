@@ -1,0 +1,6 @@
+{
+  "name": "AETHER - Astronaut Telemetry & Health Intelligence",
+  "description": "Astronaut Enhanced Telemetry & Health Evaluation Resource for NASA Space Apps: personalized baseline modeling, multi-signal anomaly evaluation, and explainable health decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
